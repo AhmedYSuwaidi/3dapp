@@ -260,8 +260,10 @@ if(isset($_GET['del_id']))
   <!-- ======= Footer ======= -->
   <footer id="footer">
     <div class="container">
+
       <div class="copyright">
-        &copy; Copyright <strong><span>3D App 2022</span></strong>. All Rights Reserved
+      These web pages are submitted as part requirement for the degree of BSc Computer Science and Artificial Intelligence at the University of Sussex.  They are the product of my own labour except where indicated in the web page content. These web pages or contents may be freely copied and distributed provided the source is acknowledged
+      <strong><span> <a href="https://github.com/AhmedYSuwaidi/3dapp.git">https://github.com/AhmedYSuwaidi/3dapp.git</a></span></strong>
       </div>
     </div>
   </footer><!-- End Footer -->
